@@ -1,0 +1,55 @@
+﻿  Trigger.cpp
+c:\users\okfla\desktop\csgo lsv\csgo lsv\trigger.cpp(13): warning C4311: 'type cast': pointer truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\trigger.cpp(13): warning C4302: 'type cast': truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\trigger.cpp(13): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+c:\users\okfla\desktop\csgo lsv\csgo lsv\trigger.cpp(18): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+c:\users\okfla\desktop\csgo lsv\csgo lsv\trigger.cpp(30): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+  Settings.cpp
+  Offsets.cpp
+  Memory.cpp
+c:\users\okfla\desktop\csgo lsv\csgo lsv\memory.cpp(46): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\memory.cpp(46): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+  Main.cpp
+c:\users\okfla\desktop\csgo lsv\csgo lsv\main.cpp(21): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+c:\users\okfla\desktop\csgo lsv\csgo lsv\main.cpp(61): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+  Visuals.cpp
+c:\users\okfla\desktop\csgo lsv\csgo lsv\visuals.cpp(15): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+c:\users\okfla\desktop\csgo lsv\csgo lsv\visuals.cpp(30): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+c:\users\okfla\desktop\csgo lsv\csgo lsv\visuals.cpp(31): warning C4311: 'type cast': pointer truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\visuals.cpp(31): warning C4302: 'type cast': truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\visuals.cpp(31): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+c:\users\okfla\desktop\csgo lsv\csgo lsv\visuals.cpp(34): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+c:\users\okfla\desktop\csgo lsv\csgo lsv\visuals.cpp(46): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+c:\users\okfla\desktop\csgo lsv\csgo lsv\visuals.cpp(53): warning C4311: 'type cast': pointer truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\visuals.cpp(53): warning C4302: 'type cast': truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\visuals.cpp(53): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+  EntityBase.cpp
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(8): warning C4311: 'type cast': pointer truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(8): warning C4302: 'type cast': truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(8): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(15): warning C4311: 'type cast': pointer truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(15): warning C4302: 'type cast': truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(15): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(22): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(29): warning C4311: 'type cast': pointer truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(29): warning C4302: 'type cast': truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(29): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(36): warning C4311: 'type cast': pointer truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(36): warning C4302: 'type cast': truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(36): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(43): warning C4311: 'type cast': pointer truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(43): warning C4302: 'type cast': truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(43): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(48): warning C4311: 'type cast': pointer truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(48): warning C4302: 'type cast': truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(48): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(58): warning C4311: 'type cast': pointer truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(58): warning C4302: 'type cast': truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(58): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(65): warning C4311: 'type cast': pointer truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(65): warning C4302: 'type cast': truncation from 'CEntityBase *' to 'DWORD'
+c:\users\okfla\desktop\csgo lsv\csgo lsv\entitybase.cpp(65): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+  Bhop.cpp
+c:\users\okfla\desktop\csgo lsv\csgo lsv\bhop.cpp(17): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID' of greater size
+  Generating Code...
+  CSGO LSV.vcxproj -> C:\Users\okFla\Desktop\CSGO LSV\x64\Debug\CSGO LSV.exe

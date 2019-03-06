@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Features">
+      <UniqueIdentifier>{7a1630c0-f71c-4335-8261-ca4f4414044c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Features\Trigger">
+      <UniqueIdentifier>{63e2794f-6f99-46bf-8a8c-f0cd850884a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Features\Bhop">
+      <UniqueIdentifier>{0d55251e-0443-4201-bcc5-f2fc3b2e6c48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Memory">
+      <UniqueIdentifier>{5e799623-5b40-48c8-a2a9-5b067ec170d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Offsets">
+      <UniqueIdentifier>{7d332cfd-dbfc-4b9b-bdbb-e61c7e4715d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Settings">
+      <UniqueIdentifier>{08a8f632-4a68-476e-9e98-ccb2f62cc622}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Features\Visuals">
+      <UniqueIdentifier>{9bf43606-746d-4976-9946-151ff2b04a1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EntityBase">
+      <UniqueIdentifier>{7b0c8522-d5a9-45d0-9325-073fc1dc90d7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bhop.cpp">
+      <Filter>Features\Bhop</Filter>
+    </ClCompile>
+    <ClCompile Include="Trigger.cpp">
+      <Filter>Features\Trigger</Filter>
+    </ClCompile>
+    <ClCompile Include="Settings.cpp">
+      <Filter>Settings</Filter>
+    </ClCompile>
+    <ClCompile Include="Visuals.cpp">
+      <Filter>Features\Visuals</Filter>
+    </ClCompile>
+    <ClCompile Include="Memory.cpp">
+      <Filter>Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="Offsets.cpp">
+      <Filter>Offsets</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityBase.cpp">
+      <Filter>EntityBase</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bhop.h">
+      <Filter>Features\Bhop</Filter>
+    </ClInclude>
+    <ClInclude Include="Trigger.h">
+      <Filter>Features\Trigger</Filter>
+    </ClInclude>
+    <ClInclude Include="Settings.h">
+      <Filter>Settings</Filter>
+    </ClInclude>
+    <ClInclude Include="Visuals.h">
+      <Filter>Features\Visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="Memory.h">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="Offsets.h">
+      <Filter>Offsets</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityBase.h">
+      <Filter>EntityBase</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
