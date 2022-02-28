@@ -3,8 +3,7 @@
 #include <iostream>
 #include <Windows.h>
 
-//Our offsets are stored here. Incase csgo has an update change these to current offsets and cheat should be working again.
-//Depends on the update though. You might need to change something from code also at some point.
+//updateeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 class COffsets
 {
 public:
