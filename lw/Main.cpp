@@ -7,8 +7,7 @@
 #include "Settings.h"
 #include "EntityBase.h"
 
-/*I tried to comment some of the stuff.
-- DarknzNet*/
+//labeled<3
 
 int main()
 {
